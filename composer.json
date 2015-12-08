@@ -1,0 +1,17 @@
+{
+    "name": "canddi/php-send",
+    "description": "Easier way to send a message to SNS",
+    "require": {
+        "aws/aws-sdk-php": "2.*",
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+    },
+    "authors": [
+        {
+            "name": "Anosh Malik",
+            "email": "anosh@canddi.com"
+        }
+    ]
+}
