@@ -1,6 +1,6 @@
 {
-    "name": "canddi/php-send",
-    "description": "Easier way to send a message to SNS",
+    "name": "canddi/adminlogging",
+    "description": "Easier way to send a Message to the CANDDi Audit Log",
     "require": {
         "aws/aws-sdk-php": "2.*",
         "php": ">=5.5.0"
