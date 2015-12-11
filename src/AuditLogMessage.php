@@ -1,10 +1,10 @@
 <?php
-namespace Canddi\LogMessage;
+namespace Canddi;
 use Aws\Sns\SnsClient;
 
 /**
  * Class AuditLogMessage
- * @package Canddi\LogMessage
+ * @package Canddi
  */
 class AuditLogMessage
 {
